@@ -1,0 +1,16 @@
+{
+  "hidden_dim": 256,
+  "environment_dim": 64,
+  "graph_layers": 2,
+  "graph_dropout": 0.2,
+  "gate_hidden": [256, 128, 64],
+  "learning_rate": 0.001,
+  "weight_decay": 1e-5,
+  "batch_size": 2048,
+  "temperature": 0.2,
+  "patience": 15,
+  "lambda_align": 0.15,
+  "lambda_environment": 0.25,
+  "lambda_taxonomy": 0.10,
+  "lambda_l2": 1e-5
+}
