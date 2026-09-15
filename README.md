@@ -1,7 +1,5 @@
 # BeltRec Python Reproduction
 
-This repository is a runnable, multi-file reproduction of **BeltRec: Causally Calibrated Multimodal Representation Learning for Industrial Belt Recommendation in Cross-Border Fishing Tackle E-Commerce**.
-
 ## 1. What is reproduced
 
 The code follows the manuscript's four main components:
